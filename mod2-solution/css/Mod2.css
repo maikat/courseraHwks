@@ -49,14 +49,22 @@ h4 {border: 1px solid black;
 }
 /********** Medium devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
-  .col-md-1, .col-md-2, .col-md-3 {
+  .col-md-1, .col-md-2 {
     float: left;
 	border: 1px solid black;
 	margin: 5px;
 	padding: 3px;
 	background-color: gray;
 	width: 48%;
-/*	height: 110px;  */
+	overflow: hidden;
+ 	 }
+ 	 .col-md-3 {
+    float: left;
+	border: 1px solid black;
+	margin: 5px;
+	padding: 3px;
+	background-color: gray;
+
 	overflow: hidden;
  	 }
  }
