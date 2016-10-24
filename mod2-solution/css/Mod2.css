@@ -5,7 +5,7 @@ h1 { margin-bottom: 30px;
 
 span {border: 1px solid black;
 	text-align: right;  
-	margin: 0;
+	margin: 25px;
 	padding: 0;   
 	background-color: green;
 	font-size: 14; }
@@ -32,9 +32,10 @@ h4 {border: 1px solid black;
     float: left;
 	border: 1px solid black;
 	margin: 5px;
-	padding 3px;
+	padding: 3px;
 	background-color: gray;
 	width: 32%;
+	height: 150px;
  	 }
 
 }
@@ -44,9 +45,10 @@ h4 {border: 1px solid black;
     float: left;
 	border: 1px solid black;
 	margin: 5px;
-	padding 3px;
+	padding: 3px;
 	background-color: gray;
 	width: 48%;
+	height: 150px;
  	 }
  }
 /********** Mobile devices only **********/
