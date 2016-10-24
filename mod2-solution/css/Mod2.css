@@ -69,9 +69,9 @@ h4 {border: 1px solid black;
  	 .col-md-3 {
     float: left;
 	border: 1px solid black;
-	margin: 5px;
+	margin: 1%;
 	background-color: gray;
-	width: 99%;
+	width: 98%;
 	overflow: hidden;
  	 }
  }
@@ -80,10 +80,9 @@ h4 {border: 1px solid black;
   .col-sm-1, .col-sm-2, .col-sm-3 {
     float: left;
 	border: 1px solid black;
-	margin: 5px;
-	padding: 3px;
+	margin: 1%;
 	background-color: gray;
-	width: 100%;
+	width: 98%;
 	overflow: hidden;
   }
 
