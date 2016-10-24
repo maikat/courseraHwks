@@ -4,9 +4,10 @@ h1 { margin-bottom: 30px;
 	text-align: center; }
 
 span {border: 1px solid black;
-	text-align: right;  
-	margin: 25px;
-	padding: 0;   
+	margin-right: 0; 
+	/*margin: 40px; */
+	padding-left: 10;   
+	padding-right: 10;
 	background-color: green;
 	font-size: 14; }
 h3 {border: 1px solid black;
