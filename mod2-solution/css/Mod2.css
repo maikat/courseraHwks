@@ -10,7 +10,7 @@ h2 {border: 1px solid black;
 	width: 30%;
 	text-align: center;
 	background-color: #90EE90;
-	font-size: 14; }
+	font-size: 1.17em; }
 h3 {border: 1px solid black;
 	float: right;  
 	margin: 0;
@@ -18,7 +18,7 @@ h3 {border: 1px solid black;
 	width: 30%;
 	text-align: center;
 	background-color: red;
-	font-size: 14; }
+	font-size: 1.17em; }
 h4 {border: 1px solid black;
 	float: right ;
 	text-align: center;  
@@ -26,7 +26,7 @@ h4 {border: 1px solid black;
 	padding: 0;   
 	width: 30%;
 	background-color: blue; 
-	font-size: 14; }
+	font-size: 1.17em; }
 /*div { clear: left; }  */
 .row { 
 	width: 100%;
