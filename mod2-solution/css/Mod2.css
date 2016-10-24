@@ -5,7 +5,7 @@ h1 { margin-bottom: 30px;
 
 h2 {border: 1px solid black;
 	float: right; 
-	position: absolute;
+	position: relative;
 	top: 0px;
 	right: 0px;
 	margin: 0;
@@ -16,7 +16,7 @@ h2 {border: 1px solid black;
 	font-size: 1.17em; }
 h3 {border: 1px solid black;
 	float: right; 
-	position: absolute;
+	position: relative;
 	top :0px;
 	right: 0px; 
 	margin: 0;
@@ -27,7 +27,7 @@ h3 {border: 1px solid black;
 	font-size: 1.17em; }
 h4 {border: 1px solid black;
 	float: right ;
-	position: absolute;
+	position: relative;
 	top: 0px;
 	right: 0px;
 	text-align: center;  
