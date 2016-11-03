@@ -10,8 +10,10 @@ body {
   color: #606c71; }
 
 a {
-  color: grey; /**#1e6bb8; **/
+  color: #1e6bb8; 
+  background-color: grey;
   text-decoration: none;
+  font-size: 18px;
   font-weight: 1.5; }
   a:hover {
     text-decoration: underline; }
