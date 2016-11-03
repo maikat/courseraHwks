@@ -13,8 +13,8 @@ a {
   color: #1e6bb8; 
   background-color: grey;
   text-decoration: none;
-  font-size: 18px;
-  font-weight: 1.5; }
+  font-size: 20px;
+  font-weight: bold; }
   a:hover {
     text-decoration: underline; }
 
