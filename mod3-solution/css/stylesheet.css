@@ -13,7 +13,9 @@ body {
    border-color: black; 
    border-width: 1px; 
  } 
-
+ #main-content { 
+   background-color: grey; 
+ } 
  .navbar-brand { 
    padding-top: 10px; 
  } 
