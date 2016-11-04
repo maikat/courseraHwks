@@ -9,9 +9,9 @@ body {
    }  
  /** HEADER **/ 
  #header-nav { 
-   background-color: #f6b319; 
+   background-color: grey; 
    border-radius: 0; 
-   border: 0; 
+   border: 1; 
  } 
 
  .navbar-brand { 
@@ -21,11 +21,9 @@ body {
  .navbar-brand h1 { /* Restaurant name */ 
    border: 1;
    font-family: 'Lora', serif; 
-   color: #557c3e; 
+   color: blue; 
    font-size: 1.5em; 
-   text-transform: uppercase; 
    font-weight: bold; 
-   text-shadow: 1px 1px 1px #222; 
    margin-top: 0; 
    line-height: .75; 
  } 
