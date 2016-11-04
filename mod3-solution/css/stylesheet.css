@@ -10,8 +10,8 @@ body {
  /** HEADER **/ 
  #header-nav { 
    background-color: grey; 
-   border-radius: 0; 
-   border: 1; 
+   border-color: black; 
+   border-width: 1px; 
  } 
 
  .navbar-brand { 
