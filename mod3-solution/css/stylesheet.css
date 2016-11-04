@@ -14,15 +14,8 @@ body {
    border: 0; 
  } 
 
- #logo-img { 
-   background: url('../images/restaurant-logo_large.png') no-repeat; 
-   width: 150px; 
-   height: 150px; 
-   margin: 10px 15px 10px 0; 
- } 
-  
  .navbar-brand { 
-   padding-top: 12px; 
+   padding-top: 10px; 
  } 
  
  .navbar-brand h1 { /* Restaurant name */ 
@@ -34,7 +27,6 @@ body {
    font-weight: bold; 
    text-shadow: 1px 1px 1px #222; 
    margin-top: 0; 
-   margin-bottom: 0; 
    line-height: .75; 
  } 
  .navbar-brand a:hover, .navbar-brand a:focus { 
