@@ -4,8 +4,7 @@
 body { 
    font-size: 16px; 
    color: black; 
-   /* background-color: #61122f; */
-   font-family: 'Oxygen', sans-serif; 
+   font-family: sans-serif; 
    }  
  /** HEADER **/ 
  #header-nav { 
@@ -15,6 +14,8 @@ body {
  } 
  #main-content { 
    background-color: grey; 
+   margin-left: 5%;
+   margin-right: 5%;
  } 
  .navbar-brand { 
    padding-top: 10px; 
@@ -38,6 +39,10 @@ body {
    font-size: .7em; 
    margin-top: 15px; 
  } 
+ h2, h3 {
+  text-align: center;
+  font-weight: bold;
+ }
  .navbar-brand p span { /* Star-K */ 
    vertical-align: middle; 
  } 
