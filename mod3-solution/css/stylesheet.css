@@ -57,6 +57,7 @@ body {
    border: 1; 
    font-size: 1.1em; 
    font-weight: bold; 
+   background-color: white;
  } 
  #nav-list a:hover {
   background: #E7E7E7;
