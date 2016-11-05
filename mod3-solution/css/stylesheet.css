@@ -12,6 +12,9 @@ body {
    border-color: black; 
    border-width: 3px; 
  } 
+  #header-nav li { 
+   background-color: white;
+  } 
  #dish { 
    background-color: grey; 
    margin-left: 5%;
@@ -54,7 +57,7 @@ body {
  } 
 #nav-list {  
    text-align: center;
-   border: 1; 
+   border: 1px solid; 
    font-size: 1.1em; 
    font-weight: bold; 
    background-color: white;
